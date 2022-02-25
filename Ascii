@@ -1,0 +1,10 @@
+public class Ascii {
+
+	public static void main(String[] args) {
+		char a='a';
+		int ascii=a;
+		System.out.println(ascii);
+		
+	}
+
+}
